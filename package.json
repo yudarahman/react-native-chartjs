@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/KittyCookie/react-native-chartjs#readme",
   "dependencies" : {
-    "react-native-webview":"^2.0.0"
+    "react-native-webview":"^9.4.0"
   }
 
 }
